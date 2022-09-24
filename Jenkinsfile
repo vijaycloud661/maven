@@ -25,7 +25,7 @@ pipeline
                 
             
         }
-        stage('continuousdeploy'){
+        /*stage('continuousdeploy'){
                 steps
                 {
                     sshagent(['Connection_with_private_key']) {
@@ -35,7 +35,7 @@ pipeline
                 }
                     
                 
-                }
+                }*/
                 
             
         }
