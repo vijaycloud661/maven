@@ -44,12 +44,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devops markonda</name>
-		<url>http://13.127.3.15:8081/repository/testrepo/</url>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>devops markonda</name>
-		<url>http://13.127.3.15:8081/repository/testrepo/</url>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
       </repository>
 	
    </distributionManagement>
