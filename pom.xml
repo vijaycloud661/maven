@@ -31,6 +31,20 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+      <snapshotRepository>
+        <id>nexus</id>
+        <name>devops markonda</name>
+		<url>http://13.235.238.85:8081/repository/testrepo/</url>
+      </snapshotRepository>
+	  <repository>
+        <id>nexus</id>
+        <name>devops markonda</name>
+		<url>http://13.235.238.85:8081/repository/testrepo/</url>
+      </repository>
+	
+   </distributionManagement>
+
 
   <build>
     <finalName>mavenproject</finalName>
