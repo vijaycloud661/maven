@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devops markonda</name>
-		<url>http://3.6.39.212:8081/repository/testrepo/</url>
+		<url>http://13.127.3.15:8081/repository/testrepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>devops markonda</name>
-		<url>http://3.6.39.212:8081/repository/testrepo/</url>
+		<url>http://13.127.3.15:8081/repository/testrepo/</url>
       </repository>
 	
    </distributionManagement>
