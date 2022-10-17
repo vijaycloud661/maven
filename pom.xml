@@ -44,12 +44,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/mark-snapshot/</url>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/mark-release/</url>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
       </repository>
 	
    </distributionManagement>
