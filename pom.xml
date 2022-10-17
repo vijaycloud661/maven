@@ -43,13 +43,13 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
-        <name>devops markonda</name>
-		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
+        <name>devopsmarkonda</name>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/mark-snapshot/</url>
       </snapshotRepository>
-	  <repository>
+      <repository>
         <id>nexus</id>
-        <name>devops markonda</name>
-		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/testrepo/</url>
+        <name>devopsmarkonda</name>
+		<url>http://ec2-13-127-3-15.ap-south-1.compute.amazonaws.com:8081/repository/mark-release/</url>
       </repository>
 	
    </distributionManagement>
