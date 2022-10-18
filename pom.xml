@@ -54,7 +54,6 @@
       </repository>
 	
    </distributionManagement>
--->
 
   <build>
     <finalName>mavenproject</finalName>
