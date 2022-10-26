@@ -45,12 +45,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://ec2-65-1-84-24.ap-south-1.compute.amazonaws.com:8081/repository/testtestrepo/</url>
+		<url>http://65.2.168.51:8081/repository/mohanrepo/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://ec2-65-1-84-24.ap-south-1.compute.amazonaws.com:8081/repository/testtestrepo/</url>
+		<url>http://65.2.168.51:8081/repository/mohanrepo/</url>
       </repository>
 	
    </distributionManagement>
