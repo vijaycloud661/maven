@@ -45,12 +45,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://3.111.187.228:8081/repository/testrepo/</url>
+		<url>http://44.200.242.38:8081/repository/test/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://3.111.187.228:8081/repository/testrepo/</url>
+		<url>http://44.200.242.38:8081/repository/test/</url>
       </repository>
 	
    </distributionManagement>
