@@ -39,7 +39,7 @@
             <li><strong>Learn DevOps principles and practices</strong></li>
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
-            <li><strong>Join a community of fellow DevOps enthusiasts</strong></li>
+            <li><strong>Join withus and thanks for choosing devops course</strong></li>
         </ul>
     </div>
 </body>
